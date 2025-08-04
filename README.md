@@ -67,18 +67,4 @@ This project involves cleaning and analyzing a Spotify dataset using Python and 
 
 ---
 
-##  Sample Output
-
-```bash
-Enter the genre: pop
-Top 10 songs in genre: pop
-
-Enter the artist: Ed Sheeran
-Top 10 songs by Ed Sheeran
-
-Enter the song name: Shape of You
-Song is available in non-explicit version
-```
-
----
 
